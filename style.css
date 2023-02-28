@@ -1,0 +1,57 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@400;500&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.font-poppins {
+    font-family: 'Poppins' !important;
+}
+
+.font-700 {
+    font-weight: 700 !important;
+}
+
+.font-500 {
+    font-weight: 500 !important;
+}
+
+.font-600 {
+    font-weight: 600 !important;
+}
+
+.font-300 {
+    font-weight: 300 !important;
+}
+
+/* Colors */
+.text-grey {
+    color: #3e3e3e !important;
+}
+
+
+.btn-padding {
+    padding: 10px 43px !important;
+}
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+/* Mobile Devices */
+@media only screen and (max-width:576px) {
+
+    .carousel-item {
+        height: 90vh !important;
+    }
+
+    .carousel-item img {
+        height: 90vh !important;
+        object-fit: cover;
+    }
+}
+
+/* Tablet Devices */
+@media only screen and (min-width:577px) and (max-width:992px) {}
