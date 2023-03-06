@@ -9,6 +9,10 @@
 
 /* Text Styles */
 
+.text-nav {
+    color: #3E3E3E;
+}
+
 .text-grey {
     color: #6c6c6c !important;
 }
